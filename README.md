@@ -12,7 +12,11 @@ Shows will be free and open to everyone, but I want people to be able to pre-reg
 I'd like to have a professional web address, either a .com or .org -- you decide, but just make sure it's relevant to the film festival."
 
 Project to-dos:
+
+
 1.Website prototype: A website prototype created in HTML and CSS with Bootstrap.
+
+
 2.Project brief: A project brief that covers logistical details about the overall project as well as technical details about the website.
 
 This project includes:
