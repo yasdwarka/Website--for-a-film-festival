@@ -22,3 +22,7 @@ Project to-dos:
 This project includes:
 A project brief explaining the client's needs, including an explanation of the technologies chosen.
 A prototype folder with the HTML and CSS source code + images.
+
+HTML 
+
+CSS
